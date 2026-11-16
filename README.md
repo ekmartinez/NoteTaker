@@ -21,7 +21,7 @@ Python dependencies are managed by uv (faster-whisper, sounddevice, numpy).
 
 ```
 git clone <repo-url>
-cd offline-notetaker
+cd NoteTaker
 uv sync
 ```
 
